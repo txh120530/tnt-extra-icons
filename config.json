@@ -361,6 +361,12 @@
       ]
     },
     {
+      "uid": "1b1a592d33fa26c37926cbe840eb60b8",
+      "css": "snapchat-ghost",
+      "code": 59733,
+      "src": "fontawesome"
+    },
+    {
       "uid": "a82dcb239d195608d7331412893f2cdd",
       "css": "smile-solid",
       "code": 59721,
